@@ -12,3 +12,5 @@ Source code: algo.py
 ###### python setup.py sdist
    For Windows, open a command prompt windows (Start ‣ Accessories) and change the command to:
 ###### setup.py sdist
+   Finally in the same package directory type this following command:
+###### python setup.py install
