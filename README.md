@@ -14,3 +14,6 @@ Source code: algo.py
 ###### setup.py sdist
    Finally in the same package directory type this following command:
 ###### python setup.py install
+
+
+## Module Content
