@@ -10,4 +10,5 @@ Source code: algo.py
 
    In order to fully use the algo module firstly download the whole package from the following link: https://github.com/Rafa1994/Python-algo-Module . Then open the terminal and go to the directory where the module package is located. After that run this command from terminal:
 ###### python setup.py sdist
-
+   For Windows, open a command prompt windows (Start ‣ Accessories) and change the command to:
+###### setup.py sdist
