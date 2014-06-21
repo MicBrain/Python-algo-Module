@@ -1,4 +1,6 @@
-                                      algo -- Module for Algorithms
+                                          algo -- Module for Algorithms
 =============================================================================================================================
 
-A Cohesive Python Module for Algorithms. 
+Source code: algo.py
+
+
