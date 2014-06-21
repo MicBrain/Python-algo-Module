@@ -7,3 +7,5 @@ Source code: algo.py
 
 
 # Installation
+
+   In order to fully use the algo module firstly download the whole package from the following link: https://github.com/Rafa1994/Python-algo-Module .
