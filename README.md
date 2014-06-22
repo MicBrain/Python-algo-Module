@@ -55,6 +55,7 @@ Binary_Tree(data = None), self.left = None, self.right = None : - Creates a stru
    7. Binary_Tree method: tree_data(self) - A generator that gets a binary tree node data.
 
 #### SORTING ALGORITHMS
+In computer science, a search algorithm is an algorithm for finding an item with specified properties among a collection of items. The items may be stored individually as records in a database; or may be elements of a search space defined by a mathematical formula or procedure.
    
    
    
