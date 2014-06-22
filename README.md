@@ -113,7 +113,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
    
    3. KMP(string, word) - Searches the substring word in a string. Read: http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
 
-
+   4. BMH(text, pattern) - Searches a substring pattern in a text. Read: http://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm
 
 
 
