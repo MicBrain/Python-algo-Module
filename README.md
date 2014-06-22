@@ -18,4 +18,4 @@ Source code: algo.py
 
 ## Module Content
 #### a) Trees
-1. Tree(entry, left = None, right = None) - 
+1. Tree(entry, left = None, right = None) -  Creates a General Structure for Tree. A Tree is a non-linear abstract data type or data structure that simulates a hierarchical tree structure, with a root value and subtrees of children, represented as a set of linked nodes.
