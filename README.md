@@ -97,9 +97,9 @@ Number theory is a branch of pure mathematics devoted primarily to the study of 
    
    7. GCD(a,b) - Counts the GCD for numbers a and b. For description read: http://en.wikipedia.org/wiki/Greatest_common_divisor
    
+   8. Factor(n) - Provides all the factors of the number n.
    
-   
-   
+   9. Pell_Equations(n, k) - Returns the list of first k solutions of the Pell's equation (x^2 - n*(y^2) = 1).
    
    
    
