@@ -99,7 +99,7 @@ Number theory is a branch of pure mathematics devoted primarily to the study of 
    
    8. Factor(n) - Provides all the factors of the number n.
    
-   9. Pell_Equations(n, k) - Returns the list of first k solutions of the Pell's equation (x^2 - n*(y^2) = 1).
+   9. Pell_Equations(n, k) - Returns the list of first k solutions of the Pell's equation ( x^2 - n*(y^2) = 1 ).
    
    
    
