@@ -117,8 +117,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    5. RKS(substring, string) - Finds any one of a set of pattern strings in a text. Read: http://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm 
 
-
-
+#### DATA ALGORITHMS
 
 
 
