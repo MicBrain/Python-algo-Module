@@ -23,3 +23,7 @@ Source code: algo.py
    Tree method: tree_print() - Gives the visualised structure of the tree created by Tree class.
    
    Function: swap_tree(tree) - Swaps the left and right branches of a tree.
+   
+   Function: traversal(tree) - Traverses the tree in order to get all elements in some sort of list.
+   
+   Function: tree_to_list(tree)
