@@ -75,6 +75,9 @@ A sorting algorithm is an algorithm that puts elements of a list(lst) in a certa
 #### HASHING ALGORITHMS
 Hash values are integers. They are used to quickly compare dictionary keys during a dictionary lookup. Numeric values that compare equal have the same hash value.
    
+   1. Hash(string) - Hashing function that converts a string value to an integer value.
+   
+   2. Fast_Hash(string) - A faster version of Hash(string) function.
    
    
    
