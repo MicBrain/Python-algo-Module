@@ -53,13 +53,8 @@ Binary_Tree(data = None), self.left = None, self.right = None : - Creates a stru
    6. Binary_Tree method: compare_trees(self, node) -  Compates two binary trees.
    
    7. Binary_Tree method: tree_data(self) - A generator that gets a binary tree node data.
-   
-   
-   
-   
-   
-   
-   
+
+#### SORTING ALGORITHMS
    
    
    
