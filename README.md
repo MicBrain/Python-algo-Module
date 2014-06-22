@@ -83,10 +83,9 @@ Hash values are integers. They are used to quickly compare dictionary keys durin
 #### NUMBER THEORY
 Number theory is a branch of pure mathematics devoted primarily to the study of the integers, sometimes called "The Queen of Mathematics" because of its foundational place in the discipline. Number theorists study prime numbers as well as the properties of objects made out of integers or defined as generalizations of the integers.
    
+   1. is_prime(num) - Checks whether a given number num is a prime number or not.
    
-   
-   
-   
+   2. primes(limit) - Gives the list of all prime numbers less that the limit. Read http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
    
    
    
