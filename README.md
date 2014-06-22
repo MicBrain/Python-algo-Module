@@ -48,6 +48,12 @@ Binary_Tree(data = None), self.left = None, self.right = None : - Creates a stru
 
    4. Binary_Tree method: children_count(self) - Counts the number of nodes in a tree. 
    
+   5. Binary_Tree method: print_tree(self) - Prints the content of the Binary tree.
+   
+   6. Binary_Tree method: compare_trees(self, node) -  Compates two binary trees.
+   
+   7. Binary_Tree method: tree_data(self) - A generator that gets a binary tree node data.
+   
    
    
    
