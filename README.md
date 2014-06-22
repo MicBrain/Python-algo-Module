@@ -26,4 +26,38 @@ Source code: algo.py
    
    Function: traversal(tree) - Traverses the tree in order to get all elements in some sort of list.
    
-   Function: tree_to_list(tree)
+   Function: tree_to_list(tree) - Saves all data in tree in the list.
+   
+   Function: equal_trees(t1, t2) - Checks if trees t1 and t2 are equal.
+   
+   Function: tree_size(t) - Returns the number of elements in a tree t. 
+   
+   Function: tree_height(t) - Returns the height of a tree t.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
