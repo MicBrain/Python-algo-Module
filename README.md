@@ -33,6 +33,7 @@ Tree(entry, left = None, right = None) -  Creates a General Structure for Tree. 
    6. Function: tree_size(t) - Returns the number of elements in a tree t. 
    
    7. Function: tree_height(t) - Returns the height of a tree t.
+
 #### b) Binary Trees
    
    
