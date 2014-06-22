@@ -43,6 +43,12 @@ Binary_Tree(data = None), self.left = None, self.right = None : - Creates a stru
    1. Binary_Tree method: insert(self, data) - Inserts new node with data.
     
    2. Binary_Tree method: lookup(self, data, parent = None) - Looks up a node containing data and returns also its parent.
+
+   3. Binary_Tree method: delete(self, data) - Deletes a node containing data from binary tree. 
+
+   4. Binary_Tree method: children_count(self) - Counts the number of nodes in a tree. 
+   
+   
    
    
    
