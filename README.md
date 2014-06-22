@@ -20,19 +20,19 @@ Source code: algo.py
 #### a) Trees
 Tree(entry, left = None, right = None) -  Creates a General Structure for Tree. A Tree is a non-linear abstract data type or data structure that simulates a hierarchical tree structure, with a root value and subtrees of children, represented as a set of linked nodes.
 
-   Tree method: tree_print() - Gives the visualised structure of the tree created by Tree class.
+   1. Tree method: tree_print() - Gives the visualised structure of the tree created by Tree class.
+    
+   2. Function: swap_tree(tree) - Swaps the left and right branches of a tree.
    
-   Function: swap_tree(tree) - Swaps the left and right branches of a tree.
+   3. Function: traversal(tree) - Traverses the tree in order to get all elements in some sort of list.
    
-   Function: traversal(tree) - Traverses the tree in order to get all elements in some sort of list.
+   4. Function: tree_to_list(tree) - Saves all data in tree in the list.
    
-   Function: tree_to_list(tree) - Saves all data in tree in the list.
+   5. Function: equal_trees(t1, t2) - Checks if trees t1 and t2 are equal.
    
-   Function: equal_trees(t1, t2) - Checks if trees t1 and t2 are equal.
+   6. Function: tree_size(t) - Returns the number of elements in a tree t. 
    
-   Function: tree_size(t) - Returns the number of elements in a tree t. 
-   
-   Function: tree_height(t) - Returns the height of a tree t.
+   7. Function: tree_height(t) - Returns the height of a tree t.
 #### a) Binary Trees
    
    
