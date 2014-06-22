@@ -79,6 +79,34 @@ Hash values are integers. They are used to quickly compare dictionary keys durin
    
    2. Fast_Hash(string) - A faster version of Hash(string) function.
    
+
+#### NUMBER THEORY
+Number theory is a branch of pure mathematics devoted primarily to the study of the integers, sometimes called "The Queen of Mathematics" because of its foundational place in the discipline. Number theorists study prime numbers as well as the properties of objects made out of integers or defined as generalizations of the integers.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
    
    
