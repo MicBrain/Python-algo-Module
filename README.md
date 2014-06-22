@@ -18,7 +18,7 @@ Source code: algo.py
 
 ## Module Content
 #### a) Trees
-1. Tree(entry, left = None, right = None) -  Creates a General Structure for Tree. A Tree is a non-linear abstract data type or data structure that simulates a hierarchical tree structure, with a root value and subtrees of children, represented as a set of linked nodes.
+   Tree(entry, left = None, right = None) -  Creates a General Structure for Tree. A Tree is a non-linear abstract data type or data structure that simulates a hierarchical tree structure, with a root value and subtrees of children, represented as a set of linked nodes.
 
    Tree method: tree_print() - Gives the visualised structure of the tree created by Tree class.
    
@@ -33,7 +33,7 @@ Source code: algo.py
    Function: tree_size(t) - Returns the number of elements in a tree t. 
    
    Function: tree_height(t) - Returns the height of a tree t.
-   
+#### a) Binary Trees
    
    
    
