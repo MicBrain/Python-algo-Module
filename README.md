@@ -17,7 +17,7 @@ Source code: algo.py
 
 
 ## Module Content
-#### a) Trees
+##### a) Trees
 Tree(entry, left = None, right = None) : -  Creates a General Structure for Tree. A Tree is a non-linear abstract data type or data structure that simulates a hierarchical tree structure, with a root value and subtrees of children, represented as a set of linked nodes.
 
    1. Tree method: tree_print() - Gives the visualised structure of the tree created by Tree class.
@@ -34,7 +34,7 @@ Tree(entry, left = None, right = None) : -  Creates a General Structure for Tree
    
    7. Function: tree_height(t) - Returns the height of a tree t.
 
-#### b) Binary Trees
+##### b) Binary Trees
 Binary_Tree(data = None), self.left = None, self.right = None : - Creates a structure for Binary Tree. A binary search tree (BST) is a node-based binary tree data structure which has the following properties: a) The left subtree of a node contains only nodes with keys less than the node’s key, b) The right subtree of a node contains only nodes with keys greater than the node’s key, c) Both the left and right subtrees must also be binary search trees.
    
    
