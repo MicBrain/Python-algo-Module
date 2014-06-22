@@ -109,7 +109,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
    
    1. Binary_Search(seq, key) - Finds the position of given input key in a sequence seq. Read: http://en.wikipedia.org/wiki/Binary_search_algorithm
    
-   2. 
+   2. DFS(graph, start, path = []) - Implementation of DFS for traversing and searching the graph. Read: http://en.wikipedia.org/wiki/Depth-first_search
    
    
    
