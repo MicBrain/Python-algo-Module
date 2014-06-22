@@ -87,15 +87,15 @@ Number theory is a branch of pure mathematics devoted primarily to the study of 
    
    2. primes(limit) - Gives the list of all prime numbers less that the limit. Read http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
    
+   3. Prime_Factorization(x) - Gives a list of all prime factors of the number x.
    
+   4. fib(n) - Generates the n-th Fibonacci number in a fast way.
    
+   5. LCM(a, b) - Counts the LCM for numbers a and b. For description read: http://en.wikipedia.org/wiki/Least_common_multiple
    
+   6. Count_Totatives(n) - Counts the totatives a number n. Read: http://en.wikipedia.org/wiki/Totative
    
-   
-   
-   
-   
-   
+   7. GCD(a,b) - Counts the GCD for numbers a and b. For description read: http://en.wikipedia.org/wiki/Greatest_common_divisor
    
    
    
