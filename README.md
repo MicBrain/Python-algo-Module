@@ -101,7 +101,7 @@ Number theory is a branch of pure mathematics devoted primarily to the study of 
    
    9. Pell_Equations(n, k) - Returns the list of first k solutions of the Pell's equation ( x^2 - n*(y^2) = 1 ).
    
-  10. perfect(n) - Checks whether the number n is a perfect number or not. Read: http://en.wikipedia.org/wiki/Perfect_number
+   10. perfect(n) - Checks whether the number n is a perfect number or not. Read: http://en.wikipedia.org/wiki/Perfect_number
    
    
    
