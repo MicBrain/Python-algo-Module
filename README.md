@@ -17,3 +17,5 @@ Source code: algo.py
 
 
 ## Module Content
+#### a) Trees
+##### 1. Tree(entry, left = None, right = None) - 
