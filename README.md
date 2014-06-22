@@ -111,7 +111,20 @@ In computer science, a search algorithm is an algorithm for finding an item with
    
    2. DFS(graph, start, path = []) - Implementation of DFS for traversing and searching the graph. Read: http://en.wikipedia.org/wiki/Depth-first_search
    
-   
+   3. KMP(string, word) - Searches the substring word in a string. Read: http://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
    
    
    
