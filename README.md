@@ -121,7 +121,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    1. shuffle(seq) - Shuffles all the items in the list.
 
-
+   2. jaccard_index(dataset_1, dataset_2) - Calculates Jaccard similarity coefficient for two datasets. Read more: http://en.wikipedia.org/wiki/Jaccard_index
 
 
    
