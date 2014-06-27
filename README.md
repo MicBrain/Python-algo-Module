@@ -133,7 +133,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    7. Most_Common(lst) - Identifies the most common element in the given list lst.
 
-
+   8. is_Anagram(s1,s2) - Checks whether strings s1 and s2 are anagrams or not.
 
 
 
