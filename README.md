@@ -129,9 +129,9 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    5. permutations(l) - A generator that retursn all the permutations of the given list l.
 
+   6. is_polindrom(string) - Checks whether the given string is a polindrom or not.
 
-
-
+   7. Most_Common(lst) - Identifies the most common element in the given list lst.
 
 
 
