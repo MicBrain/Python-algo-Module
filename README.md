@@ -137,7 +137,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    9. Find_Nonrepeat(s) - Finds the first nonrepeated character in the string s.
 
-
+  10. atoi(str) - Converts str into an integer, and returns that integer.
 
 
 
