@@ -127,7 +127,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    4. find_max_subarray(numbers) - Finds the contiguous subarray within a one-dimensional array of numbers which has the largest sum.
 
-
+   5. permutations(l) - A generator that retursn all the permutations of the given list l.
 
 
 
