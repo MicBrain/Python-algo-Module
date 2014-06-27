@@ -125,7 +125,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    3. Levenshtein_distance(s1, s2) - Measure the distance between two sequences. Read more: http://en.wikipedia.org/wiki/Levenshtein_distance
 
-
+   4. find_max_subarray(numbers) - Finds the contiguous subarray within a one-dimensional array of numbers which has the largest sum.
 
 
 
