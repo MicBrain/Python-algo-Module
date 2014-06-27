@@ -148,7 +148,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
    
    1. http://rosettacode.org
    
-   2. http://markmiyashita.com/cs61a/sp14/
+   2. http://markmiyashita.com/cs61a/sp14
 
    3. http://www.laurentluce.com/
 
