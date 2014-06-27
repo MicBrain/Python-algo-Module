@@ -139,7 +139,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    10. atoi(str) - Converts str into an integer, and returns that integer.
 
-
+   11. Weighted_Random(W) - Generate random integers given a list W of integers.
 
 
    
