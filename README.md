@@ -119,7 +119,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
 #### DATA ALGORITHMS
 
-   1. 
+   1. shuffle(seq) - Shuffles all the items in the list.
 
 
 
