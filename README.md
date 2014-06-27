@@ -135,7 +135,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    8. is_Anagram(s1,s2) - Checks whether strings s1 and s2 are anagrams or not.
 
-
+   9. Find_Nonrepeat(s) - Finds the first nonrepeated character in the string s.
 
 
 
