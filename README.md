@@ -123,6 +123,24 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    2. jaccard_index(dataset_1, dataset_2) - Calculates Jaccard similarity coefficient for two datasets. Read more: http://en.wikipedia.org/wiki/Jaccard_index
 
+   3. Levenshtein_distance(s1, s2) - Measure the distance between two sequences. Read more: http://en.wikipedia.org/wiki/Levenshtein_distance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
    
