@@ -141,7 +141,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    11. Weighted_Random(W) - Generate random integers given a list W of integers.
 
-   12. Hamming_Distance(str1, str2) - Calculates the distance between two strings of equal length. Read more:
+   12. Hamming_Distance(str1, str2) - Calculates the distance between two strings of equal length. Read more: http://en.wikipedia.org/wiki/Hamming_distance
    
 
 ## References 
