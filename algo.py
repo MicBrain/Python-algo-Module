@@ -8,11 +8,11 @@ DEFINITION:
 	A Tree is a non-linear abstract data type or data structure that simulates a 
 hierarchical tree structure, with a root value and subtrees of children, represented
 as a set of linked nodes.
-				34
+			    34
 			   /  \
 			 23    43
 			/  \  /  \ 
-		  12   5  2	  324
+		      12   5  2	  324
 """
 
 class Tree(object):
