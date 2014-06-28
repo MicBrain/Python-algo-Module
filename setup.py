@@ -1,6 +1,6 @@
-                              ##############################
-                              ### ALGO MODULE SETUP TOOL ###
-                              ##############################
+                                          ##############################
+                                          ### ALGO MODULE SETUP TOOL ###
+                                          ##############################
 
 from distutils.core import setup
 
