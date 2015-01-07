@@ -10,7 +10,7 @@
 
 ### Introduction
 
-   algo is a cohesive Python Module for Algorithms. This library is an experimental collection of diverse useful algorithms from different fields of Computer Science implemented in Python.
+   "algo" is a cohesive Python Module for Algorithms. This library is an experimental collection of diverse useful algorithms from different fields of Computer Science implemented in Python.
 
 Source code: algo.py
 
