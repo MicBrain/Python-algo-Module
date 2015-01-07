@@ -1,10 +1,9 @@
 # algo -- Module for Algorithms
 ============================================================================================================================
-
-### Table of Content
-
 <img src="https://cloud.githubusercontent.com/assets/5885065/5642786/80ea0f0a-9604-11e4-8014-f7a199c982cd.jpg"
  alt="algo Logo" title="algo" align="right" />
+
+### Table of Content
 
 1. Introduction
 2. Installation
