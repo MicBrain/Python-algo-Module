@@ -10,7 +10,7 @@
 
 ### Introduction
 
-   "algo" is a cohesive Python Module for Algorithms. This library is an experimental collection of diverse useful algorithms from different fields of Computer Science implemented in Python.
+   **["algo"]** [web1] is a cohesive Python Module for Algorithms. This library is an experimental collection of diverse useful algorithms from different fields of Computer Science implemented in Python.
 
 Source code: algo.py
 
@@ -167,3 +167,4 @@ In computer science, a search algorithm is an algorithm for finding an item with
 
    5. http://interactivepython.org/runestone/static/pythonds/SortSearch/sorting.html
    
+[web1]: https://github.com/MicBrain/Python-algo-Module
