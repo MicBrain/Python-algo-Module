@@ -1,6 +1,6 @@
 # algo -- Module for Algorithms
 
-<img src="https://cloud.githubusercontent.com/assets/5885065/5642945/b62db246-9606-11e4-89e8-131c478b0deb.png"
+<img src="https://cloud.githubusercontent.com/assets/5885065/5642960/fbc4d352-9606-11e4-91fb-5f5c458b52d0.png"
  alt="algo Logo" title="algo" align="right" />
 
 
