@@ -4,6 +4,7 @@
 ### Table of Content
 
 1. Introduction
+2. Installation
 2. Full Documenation
 3. Like it / Hate it
 4. References
@@ -15,7 +16,7 @@
    This is the Official Documentation of algo module. This module provides an implementation of different algorithms. The module was created in order to help Python developers easily implement some frequently used algorithms. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. It is important to note that the license of algo module is distributed under Apache Licese.
 
 
-## Installation
+### Installation
 
    In order to fully use the algo module firstly download the whole package from the following link: https://github.com/Rafa1994/Python-algo-Module (click on "Download zip" on the right side). Then open the terminal and go to the directory where the module package is located. After that run this command from terminal:
 ###### python setup.py sdist
@@ -25,7 +26,7 @@
 ###### python setup.py install
 
 
-## Module Content
+### Documentation
 
 #### TREE STRUCTURES
 
@@ -153,7 +154,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
    12. Hamming_Distance(str1, str2) - Calculates the distance between two strings of equal length. Read more: http://en.wikipedia.org/wiki/Hamming_distance
    
 
-## References 
+### References 
    
    1. http://rosettacode.org
    
