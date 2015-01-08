@@ -170,3 +170,4 @@ In computer science, a search algorithm is an algorithm for finding an item with
    
 [web1]: https://github.com/MicBrain/Python-algo-Module
 [web2]: http://www.apache.org/licenses/LICENSE-2.0
+[web3]: https://www.linkedin.com/in/rafayelmkrtchyan
