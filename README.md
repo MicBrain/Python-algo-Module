@@ -15,7 +15,7 @@
    <img src="https://cloud.githubusercontent.com/assets/5885065/5642960/fbc4d352-9606-11e4-91fb-5f5c458b52d0.png"
  alt="algo Logo" title="algo" align="right" />
    
-   This is the Official Documentation of algo module. This module provides an implementation of different algorithms. Provided algorithms were collected after 1 year research that analyzed the most commonly used algoithms in Software Engineering. The module was created in order to help Python developers to easily utilize those frequently used algorithms without having to implement them. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. It is important to note that the license of algo module is distributed under Apache Licese.
+   This is the Official Documentation of algo module. This module provides an implementation of different algorithms. Provided algorithms were collected after 1 year research that analyzed the most commonly used algoithms in Software Engineering. The module was created in order to help Python developers to easily utilize those frequently used algorithms without having to implement them. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. It is important to note that the license of algo module is distributed under [Apache Licese] [web2].
 
 
 ### Installation
@@ -169,3 +169,4 @@ In computer science, a search algorithm is an algorithm for finding an item with
    5. http://interactivepython.org/runestone/static/pythonds/SortSearch/sorting.html
    
 [web1]: https://github.com/MicBrain/Python-algo-Module
+[web2]: http://www.apache.org/licenses/LICENSE-2.0
