@@ -25,7 +25,6 @@
    Finally in the same package directory type this following command:
 ###### python setup.py install
 
-
 ### Full Documentation
 
 ##### TREE STRUCTURES
