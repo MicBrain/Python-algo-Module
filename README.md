@@ -1,5 +1,4 @@
-# algo -- Module for Algorithms
-
+![alt tag](https://cloud.githubusercontent.com/assets/5885065/5660106/0f5e27f4-96d1-11e4-80a4-638963e83aa9.png)
 
 ### Table of Content
 
