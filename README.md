@@ -154,7 +154,7 @@ In computer science, a search algorithm is an algorithm for finding an item with
   
 ### Like it / Hate it
 
-   This API has been written by [Rafayel Mkrtchyan] [web3].
+   This API has been written by [Rafayel Mkrtchyan] [web3]. For additional
 
 ### References 
    
