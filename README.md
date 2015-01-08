@@ -11,11 +11,11 @@
 
 ### Introduction
  
-   **["algo"] [web1]** is a cohesive Python Module for Algorithms. This library is an experimental collection of diverse useful algorithms from different fields of Computer Science implemented in Python. You can find the source code in algo.py file. Provided algorithms were collected after 1 year research that analyzed the most commonly used algoithms in Software Engineering.
+   **["algo"] [web1]** is a cohesive Python Module for Algorithms. This library is an experimental collection of diverse useful algorithms from different fields of Computer Science implemented in Python. You can find the source code in algo.py file.
    <img src="https://cloud.githubusercontent.com/assets/5885065/5642960/fbc4d352-9606-11e4-91fb-5f5c458b52d0.png"
  alt="algo Logo" title="algo" align="right" />
    
-   This is the Official Documentation of algo module. This module provides an implementation of different algorithms. The module was created in order to help Python developers easily implement some frequently used algorithms. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. It is important to note that the license of algo module is distributed under Apache Licese.
+   This is the Official Documentation of algo module. This module provides an implementation of different algorithms. Provided algorithms were collected after 1 year research that analyzed the most commonly used algoithms in Software Engineering. The module was created in order to help Python developers to easily utilize those frequently used algorithms without having to implement them. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. It is important to note that the license of algo module is distributed under Apache Licese.
 
 
 ### Installation
