@@ -2,7 +2,7 @@
 
 ### Table of Content
 
-1. Introduction
+1. Introduction 
 2. Installation
 2. Full Documenation
 3. Like it / Hate it
