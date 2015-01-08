@@ -114,7 +114,7 @@ Number theory is a branch of pure mathematics devoted primarily to the study of 
    10. perfect(n) - Checks whether the number n is a perfect number or not. Read: http://en.wikipedia.org/wiki/Perfect_number
    
 
-#### SEARCHING ALGORITHMS
+##### SEARCHING ALGORITHMS
 In computer science, a search algorithm is an algorithm for finding an item with specified properties among a collection of items. The items may be stored individually as records in a database; or may be elements of a search space defined by a mathematical formula or procedure.
    
    1. Binary_Search(seq, key) - Finds the position of given input key in a sequence seq. Read: http://en.wikipedia.org/wiki/Binary_search_algorithm
