@@ -15,8 +15,7 @@
    <img src="https://cloud.githubusercontent.com/assets/5885065/5642960/fbc4d352-9606-11e4-91fb-5f5c458b52d0.png"
  alt="algo Logo" title="algo" align="right" />
    
-   This is the Official Documentation of algo module. This module provides an implementation of different algorithms. Provided algorithms were collected after one year research that analyzed the most commonly used algoithms in Software Engineering. The module was created in order to help Python developers to easily utilize those frequently used algorithms without having to implement them. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. We are planning to increase the number of algorithms in the second version of this API. It is important to note that the license of algo module is distributed under [Apache Licese] [web2].
-
+   This is the Official Documentation of algo module. This API provides an implementation of different algorithms.  The algorithms library defines functions for a variety of purposes (e.g. data structures, searching, sorting, counting, manipulating data) that operate on ranges of elements. Provided algorithms were collected after one year research that analyzed the most commonly used algoithms in Software Engineering. The module was created in order to help Python developers to easily utilize those frequently used algorithms without having to implement them. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. We are planning to increase the number of algorithms in the second version of this API.  It is important to note that the license of algo module is distributed under [Apache Licese] [web2].
 
 ### Installation
 
