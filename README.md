@@ -64,7 +64,7 @@ Binary_Tree(data = None), self.left = None, self.right = None : - Creates a stru
    
    7. Binary_Tree method: tree_data(self) - A generator that gets a binary tree node data.
 
-##### SORTING ALGORITHMS
+##### c) SORTING ALGORITHMS
 A sorting algorithm is an algorithm that puts elements of a list(lst) in a certain order. The most-used orders are numerical order and lexicographical order. Efficient sorting is important for optimizing the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists(lst).
 
    1. Bubble_Sort(lst) - For description read: http://en.wikipedia.org/wiki/Bubble_sort
