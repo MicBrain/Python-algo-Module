@@ -26,7 +26,7 @@
 ###### python setup.py install
 
 
-### Documentation
+### Full Documentation
 
 ##### TREE STRUCTURES
 
