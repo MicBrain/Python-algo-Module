@@ -15,7 +15,7 @@
  alt="algo Logo" title="algo" align="right" />
    
    This is the Official Documentation of algo module. This API provides an implementation of different algorithms.  The algorithms library defines functions for a variety of purposes (e.g. data structures, searching, sorting, counting, manipulating data) that operate on ranges of elements. Provided algorithms were collected after one year research that analyzed the most commonly used algoithms in Software Engineering. The module was created in order to help Python developers to easily utilize those frequently used algorithms without having to implement them. Written algorithms include topics from different subfields of Computer Science. The current version of the module contains 50 algorithms. We are planning to increase the number of algorithms in the second version of this API.  It is important to note that the license of algo module is distributed under [Apache Licese] [web2].
-
+ 
 ### Installation
 
    In order to fully use the algo module firstly download the whole package from the following link: https://github.com/Rafa1994/Python-algo-Module (click on "Download zip" on the right side). Then open the terminal and go to the directory where the module package is located. After that run this command from terminal:
