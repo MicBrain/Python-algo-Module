@@ -1,4 +1,4 @@
-![alt tag](https://cloud.githubusercontent.com/assets/5885065/5660192/08b4d01e-96d2-11e4-8293-1661ec1cfb1e.png)
+# ALGO
 
 ### Table of Content
 
