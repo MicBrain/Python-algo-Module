@@ -1021,3 +1021,26 @@ def Hamming_Distance(str1, str2):
 		if ch1 != ch2:
 			diffs += 1
 	return diffs
+
+""" 38. Arithmetic Functions
+
+DEFINITION
+	In number theory, an arithmetic function is a function from the natural numbers (0,1,2,3,4,..) into the natural numbers. 
+Examples already given include Euler's Totient function. The function sum_over_primes uses the primes(limit) sieve function
+to generate any summatory fuction from an arithmetic function over the set of primes Optional arguments include specifying a lower 
+bound and the fourth argument allows the user to further filter the sum.
+
+Example: sum_over_primes(fib,100,1) generates the sum of fibonocci numbers for the first 100 primes starting at 2
+        
+def identity(x):
+    return x == x
+
+def summatory(f,list):
+    return reduce(lambda x,y: x + y,map(f,list))
+
+def sum_over_primes(f,upper, lower=1, g = identity):
+    if lower > 1:
+        return summatory(f,list(primes(upper))[lower:upper])
+    else: 
+        return summatory(f,filter(g,list(primes(upper))))
+        
