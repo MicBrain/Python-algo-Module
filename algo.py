@@ -1025,22 +1025,65 @@ def Hamming_Distance(str1, str2):
 """ 38. Arithmetic Functions
 
 DEFINITION
-	In number theory, an arithmetic function is a function from the natural numbers (0,1,2,3,4,..) into the natural numbers. 
+	In number theory, an arithmetic function is a function from the natural numbers into the natural numbers. 
 Examples already given include Euler's Totient function. The function sum_over_primes uses the primes(limit) sieve function
-to generate any summatory fuction from an arithmetic function over the set of primes Optional arguments include specifying a lower 
-bound and the fourth argument allows the user to further filter the sum.
-
-Example: sum_over_primes(fib,100,1) generates the sum of fibonocci numbers for the first 100 primes starting at 2
+to generate any summatory fuction from an arithmetic function over the set of prime numbers. Optional arguments include specifying a
+lower bound and the fourth argument allows the user to further filter the sum. Example: sum_over_primes(fib,100,1) 
+generates the sum of fibonocci numbers for the first 100 primes starting at 2.
         
 def identity(x):
+"""
+identity function returns true for every value of x
+"""
     return x == x
 
 def summatory(f,list):
+"""
+simply takes a list and a function f and sums the values of f(x) for each x in the list
+"""
     return reduce(lambda x,y: x + y,map(f,list))
 
 def sum_over_primes(f,upper, lower=1, g = identity):
+"""
+extends summatory function to the set of prime numbers using the sieve primes(limit) to generate the list of primes.
+the optional fourth parameter is the identity and does othing by default and if specified filters the set of primes
+being summed over.
+"""
     if lower > 1:
         return summatory(f,list(primes(upper))[lower:upper])
     else: 
         return summatory(f,filter(g,list(primes(upper))))
         
+""" 39. Continued Fractions
+
+Definition: A continued fraction is a representation of a real number which is itself a "fraction" of infinite length whose denominator is a 
+quantity plus a fraction, which latter fraction has a similar denominator, and so on. The following class implements some methods
+for working with continued fractons including printing out the expansion to a certain precision, adding
+continued fractions together and lazy genreation of convergents using the expansion() method.
+
+import decimal
+
+class ContinuedFraction:
+ 
+    def __init__(self,number, precision=10):
+        decimal.getcontext().prec = precision
+        self.number = number
+    
+    def expansion(self):
+        alpha = decimal.Decimal(self.number)
+        while True:
+            q, r = divmod(alpha, 1)
+            yield (q, alpha)
+            if r.is_zero():
+                return
+            alpha = 1/(alpha-q)
+            
+    def __str__(self):
+        list = []
+        for q in self.expansion():
+            list.append(q[0])
+        return str(list)
+        
+    def __add__(self,other):
+        return ContinuedFraction(self.number + other.number)
+    
