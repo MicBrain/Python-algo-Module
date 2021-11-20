@@ -901,7 +901,7 @@ def find_max_subarray(numbers):
 """  30. LIST PERMUTATIONS            
 
 DEFINITION
-	This genrator returs all the permutations for the given list.
+	This generator returns all the permutations for the given list.
 """
 def permutations(l):
     """ Generator for list permutations. """
